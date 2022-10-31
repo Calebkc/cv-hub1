@@ -1,0 +1,26 @@
+body{
+    box-sizing:border-box;  
+      padding: 0px;
+    margin: 0px;
+}
+.flex{
+    display: flex;
+   border:  1px  solid red ;
+}
+p{
+    width: max-content;
+}
+.one{
+    
+    border: 2px solid blue;
+    align-self: flex-start;
+    
+}
+.two{
+    
+    border: 2px solid blue;
+}
+.three{
+    
+    border: 2px solid blue;
+}

@@ -1,0 +1,44 @@
+body{
+background-color: #fff;    
+background-image: url(../travis-greene.jpg);
+background-size: cover;
+}
+b{
+    display: inline-block;
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+}
+.text{
+    display: inline-flex;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+    
+}
+div{
+border: 2px solid rgb(55, 0, 255);
+width: 100px;
+height: 200px;
+}
+span{
+    border: 2px solid red;
+    width: 100px;
+    height: 200px;
+ 
+}
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px;
+    cursor: pointer;
+    
+  }
